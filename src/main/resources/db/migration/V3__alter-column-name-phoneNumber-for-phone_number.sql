@@ -1,0 +1,1 @@
+ALTER TABLE tb_phones CHANGE phoneNumber phone_number varchar(9) not null;
